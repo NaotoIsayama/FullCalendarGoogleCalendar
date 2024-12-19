@@ -1,2 +1,0 @@
-# FullCalendarGoogleCalendar
-just for learning
