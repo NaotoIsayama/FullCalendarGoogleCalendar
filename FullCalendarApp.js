@@ -1,7 +1,7 @@
 
 document.addEventListener('DOMContentLoaded', async function() {
     
-    const response = await fetch('http://localhost:3000/events');
+    const response = await fetch('https://fcserver.netlify.app/.netlify/functions/events');
     const events = await response.json();
 
     var calendarEl = document.getElementById('calendar');
