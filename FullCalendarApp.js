@@ -1,3 +1,4 @@
+import googleCalendarPlugin from '@fullcalendar/google-calendar';
 
 document.addEventListener('DOMContentLoaded', async function() {
     
